@@ -1,0 +1,337 @@
+    1  la
+    2  la
+    3  cd 
+    4  cd /
+    5  ls
+    6  mkdir 徐国强/
+    7  mkdir xgq
+    8  cd/
+    9  cd /
+   10  mkdir xgq
+   11  ls
+   12  mkdirxgq
+   13  mkdir xgq
+   14  sudo
+   15  ls
+   16  mkdir xugq
+   17  mkdir xugq
+   18  ls
+   19  mkdir xugq
+   20  mkdir /c/xugq
+   21  cd
+   22  cd /c/xugq/
+   23  cd
+   24  del
+   25  ls
+   26  ?
+   27  /
+   28  ls
+   29  /
+   30  ls
+   31  /
+   32  ls
+   33  /
+   34   /
+   35  /
+   36  /
+   37  ds /
+   38  mkdir /d/xgq
+   39  /
+   40  cd
+   41  /
+   42  cd
+   43  CD
+   44  ls
+   45  cd
+   46  date
+   47  time
+   48  cala
+   49  CAL
+   50  LS
+   51  ls
+   52  cd/
+   53  cd /
+   54   cd/
+   55  pwd
+   56  cat
+   57  /
+   58  cat
+   59  /
+   60  ls/
+   61  ls /
+   62  cala
+   63  cat/
+   64  cat
+   65  /
+   66  ls
+   67  ls /
+   68  cd/d/history
+   69  cd
+   70  ls d
+   71  cd c
+   72  cd..
+   73  cd d
+   74  ls d/git/book/*
+   75  cd d/git/
+   76  cd e
+   77  ls /
+   78  cd cmd
+   79  cd bin/
+   80  cd d got
+   81  cd d git
+   82  cd d/git/book
+   83  cd/d/
+   84  cd..
+   85  cd ltp
+   86  ls
+   87  cd..
+   88  history
+   89  history
+   90  ls-s
+   91  ls -s
+   92  ls -a-s
+   93  ls-a-s
+   94  ls
+   95  history>1.txt
+   96  ls
+   97  cd
+   98  cd d
+   99  cd /
+  100  cd d
+  101  cd git
+  102  mkdir xgq
+  103  mkdir /d/xgq
+  104  history
+  105  mkdir /c/xgq
+  106  mkdir /c/xuguoqiang
+  107  mkdir /c/20213646
+  108  mldir /c/xgq
+  109  mkdir /c/xgq
+  110  cd xgq
+  111  cp /d/git/book/* xgq
+  112  cp /d/git/book/*xgq
+  113  cp /d/Git/book/*.
+  114  cp/d/Git/book/*.
+  115  history>20213646 20213646.txt
+  116  history>1.tet
+  117  cd..
+  118   cd..
+  119  cd d
+  120  cd git
+  121  cp /d/git/book/*
+  122  ls
+  123  ls
+  124  ls /
+  125  cd
+  126  cd/
+  127  cd git
+  128  history>1.txt
+  129  /
+  130  ls
+  131  ls /
+  132  mkdir /d/xgq
+  133  /
+  134  mkdir /d/xgq
+  135  history
+  136  mkdir /c/xgqq
+  137  ls
+  138  git add test.txt
+  139  rm xgq.txt
+  140  rm xgq
+  141  rm vcredist.bmp
+  142  log
+  143  git log
+  144  cd c
+  145  /
+  146  cd c:
+  147  rm xgq.tet
+  148  cd ..
+  149  /
+  150  cd ..
+  151  cd c:
+  152  pwd
+  153  ls
+  154  rm xgq/
+  155  rm -r xgq
+  156  reset
+  157  mkdir /c/xugq
+  158  ls
+  159  history
+  160  cd xgq
+  161  cd xugq
+  162  cp /c/git/book/* xugq
+  163  cp /c/git/book/* xugq
+  164  ls -s
+  165  pwd
+  166  touch 20213646-20230905.txt
+  167  git add 20213646-20230905.txt
+  168  git add -A
+  169  git add-A
+  170  cd git
+  171  cd xugq
+  172  history
+  173  history >20213646-20210905.tet
+  174  touch xgq
+  175  history
+  176  history>xgq.tet
+  177  history xgq.tet
+  178  touch xgq.tet
+  179  history xgq.tet
+  180  history>xgq.tet
+  181  cd /
+  182  cd
+  183  /
+  184  pwd
+  185  rm -r xgq
+  186  rm -r xgq.tet
+  187  rm -r 1
+  188  rm 1
+  189  cd c
+  190  ll
+  191  rm l
+  192  rm -r l
+  193  cd c
+  194  cd xugq
+  195   cd xugq
+  196  reset
+  197  /
+  198  cd c:
+  199  cd xygq:
+  200  cd xugq:
+  201  cd bin
+  202  cd xugq
+  203  rm xugq
+  204  rm -r xugq
+  205  reset
+  206  whoami.exe
+  207  cd /bin
+  208  ls /bin
+  209  reset
+  210  ls /git
+  211  ls /c
+  212  ls /git/
+  213  ls /windows
+  214  reset
+  215  ls /c -1l
+  216  cd ..
+  217  cd c
+  218  ls /c -l
+  219  mkdir pdf
+  220  mv 20213646.20230905.txt pdf
+  221  mv xugq pdf
+  222  mv xugq /
+  223  mv xugq /c
+  224  mv xugq c
+  225  reset
+  226  cat
+  227  cat xugq
+  228  cd xugq
+  229  mkdir xugq
+  230  ls /c -l
+  231  cd /
+  232   cmd
+  233  /
+  234  tcc
+  235  TCC
+  236  reg
+  237  reset
+  238  mkdir fps
+  239  cd xugq
+  240  cd xugq:
+  241  cd windows
+  242  cd c:
+  243  cd /
+  244  cp 20213646.20230905.txt fps
+  245  cp 20213646-20230905.txt fps
+  246  ls
+  247  ls /c
+  248  mv /c/xugq/ /
+  249  cd /xugq
+  250  cd /c/xugq/
+  251  ls
+  252  mkdir mp3
+  253  mkdir pdf
+  254  mv /c/web/*.mp3 mp3
+  255  ls
+  256  ls -R
+  257  mv /c/web/*.pdf pdf
+  258  ls -R
+  259  cd /c/xugq
+  260  cd ..
+  261  rm web
+  262  rm -r web
+  263  cd /c/xugq/
+  264  mkdir web
+  265  cd /
+  266  mkdir web
+  267  rm web
+  268  rm -r web
+  269  cd /c/xugq/
+  270  rm web
+  271  rm -r web
+  272  cd /
+  273  mkdir web
+  274  cd /c
+  275  cd /c/
+  276  mkdir web
+  277  cp 20213646-20230905.txt web
+  278  cp 20213646-20230905.txt.txt web
+  279  cp pdf web
+  280  cp /c/xugq/pdf web
+  281  cp -r /c/xugq/pdf web
+  282  top
+  283  cd /c/web
+  284  ls
+  285  rm pdf
+  286  rm -r pdf
+  287  cp -r pdf web
+  288  cp -r /c/pdf web
+  289  cp -r /c/xugq/pdf web
+  290  pwd
+  291  rm -r pdf
+  292  rm -r web
+  293  cd /c
+  294  rm -r web
+  295  df -h
+  296  df -h
+  297  head xugq
+  298  head /c/xugq/
+  299  head /c/xugq/20213646-20230905.txt.txt 
+  300  df
+  301  `df
+  302  c
+  303  `df c
+  304  free -h
+  305  free-h
+  306  df -h
+  307  head /c/xugq/20213646-20230905.txt 
+  308  history
+  309  /
+  310  cd /c/xugq
+  311  tar -xf videoClips 
+  312  rm -r videoClip
+  313  history
+  314  cd
+  315  ls
+  316  cd /c/xugq
+  317  ls
+  318  rm -r video
+  319  rm -r videoClips
+  320  cd /c/xugq/videoMP4/
+  321  ls
+  322  ls R
+  323  ls -R
+  324  cd ..
+  325  mkdir 总结
+  326  history>总结
+  327  history >总结
+  328  history >总结/
+  329  cd /c/xugq/总结
+  330  mkdir 20213646.tet
+  331  rm -r 20213646.tet/
+  332  mkdir 20213646.txt
+  333  cd /c/xugq
+  334  mkdir x
+  335  history
+  336  history >x/
+  337  history>20213646-20230905.txt 
