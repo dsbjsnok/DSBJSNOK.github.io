@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>视频播放器</title>
+  <style>
+    button {
+      font-size:2em;
+      display:inline-block;
+      margin:2em;
+      color:darkblue;
+      border-bottom-color:LightSlateGray;
+      border-radius:2em;
+      display:inline-block;
+      box-shadow:2px 2px gray;
+
+    }
+    #css  {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #css1  {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+<div id="css">
+  <video id="myVideo" width="520" height="450" controls></video><br>
+</div>
+<div id="css1">
+  <button onclick="play()">播放</button>
+  <button onclick="pause()">暂停</button>
+  <button onclick="next()">下一个</button>
+</div>
+<script>
+  var videos = ["http://vjs.zencdn.net/v/oceans.mp4",
+    "https://media.w3.org/2010/05/sintel/trailer.mp4"
+  ];
+
+  var i = 0;
+  var videoPlayer = document.getElementById("myVideo");
+
+  function play() {
+    videoPlayer.src = videos[i];
+    videoPlayer.play();
+  }
+
+  function pause() {
+    videoPlayer.pause();
+  }
+
+  function next() {
+    i++;
+    if (i >= videos.length) {
+      i = 0;
+    }
+    play();
+  }
+</script>
+</body>
+</html>
